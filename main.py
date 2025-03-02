@@ -1,2 +1,3 @@
-print("This file is for the new branch")
+import platform
 
+print(platform.platform())
