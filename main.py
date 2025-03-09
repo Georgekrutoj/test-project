@@ -1,3 +1,4 @@
 import platform
 
-print(platform.platform())
+PLATFORM = platform.platform()
+print(PLATFORM)
